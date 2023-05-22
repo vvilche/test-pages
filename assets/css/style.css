@@ -229,7 +229,8 @@ h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background: url(/assets/img/otras/Portada.jpg) top center;
+  background-image: image-set();
+  background : url(/assets/img/otras/portada.jpg) top center;
   background-size: cover;
 }
 
